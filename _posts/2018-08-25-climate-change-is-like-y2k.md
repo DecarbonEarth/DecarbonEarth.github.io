@@ -1,3 +1,8 @@
+---
+layout: post
+title: Climate Change And Y2K
+---
+
 The Y2K problem was a formative period for the modern technology industry. Software developed prior to the 1990s often used only two digits to store the year, for example '87' to mean 1987, and would not properly handle years after 1999. Living through this time, the progression of attitudes twoard the Y2k problem in the mass culture progressed from:
 
 * late 1980s: ignore the bleating about Y2k, just some nerd thing.

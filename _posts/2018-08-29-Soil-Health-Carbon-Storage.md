@@ -1,3 +1,8 @@
+---
+layout: post
+title: Soil Health and Carbon Sequestration
+---
+
 Topsoil across the land areas of the planet holds substantially more carbon than the entire atmosphere, but over the past several hundred years we have released at least 50 percent of the carbon formerly held in agricultural lands. This is primarily because of tilling, which disturbs the deeper soils and kills the roots and fungi which reside there. Tilling is necessary for modern agricultural practices using fertilizer and insecticides, which can improve yields substantially until the soil has become substantially depleted of carbon. Then the land becomes gradually less productive.
 
 ![https://pxhere.com/en/photo/460969]({{ site.baseurl }}/images/agriculture.jpg)
