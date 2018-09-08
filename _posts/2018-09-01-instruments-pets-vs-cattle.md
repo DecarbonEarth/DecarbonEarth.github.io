@@ -3,6 +3,7 @@ layout: post
 title: Measurement Instruments and Pets vs Cattle
 ---
 
+<img align="right" src="/images/NuclearGauge.png">
 The [pets vs cattle](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
 analogy is often used to explain cloud computing and modern datacenters.
 If a server is unique, loaded with important data, fitted out with special
@@ -12,7 +13,6 @@ action to repair it and restore it to service. By contrast, datacenter servers
 are cattle. If something goes wrong with a server its workload gets shifted
 to one of the other servers while the original is slated for replacement.
 
-<img align="right" src="/images/NuclearGauge.png">
 Right now, most instruments used for analysis of carbon in soils are treated
 like pets. They are expensive, they require skilled operators, they utilize
 radioactive components, and other factors which cause them to be either
