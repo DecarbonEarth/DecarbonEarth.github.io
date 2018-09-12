@@ -3,7 +3,7 @@ layout: post
 title: Hurricane Florence A Once in a Lifetime Storm
 ---
 
-<img align="right" src="/images/HurricaneFlorence.png">The National Weather Service is describing Hurricane Florence, currently bearing down on the Carolinas, as 'a storm of a lifetime': https://abcnews.go.com/US/million-people-evacuated-coast-hurricane-florence-bears/story?id=57740845
+<img align="right" src="/images/HurricaneFlorence.png">The National Weather Service is describing Hurricane Florence, currently bearing down on the Carolinas, as [the storm of a lifetime.](https://abcnews.go.com/US/million-people-evacuated-coast-hurricane-florence-bears/story?id=57740845)
 
 People should take it seriously. Evacuate to locations further inland. Don't try to ride out the storm...
 
